@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		463CBDC720BDAEDA000C315E /* RoundImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463CBDC620BDAEDA000C315E /* RoundImage.swift */; };
+		463EE8A120BF18F700F3D827 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 463EE8A020BF18F700F3D827 /* RoundButton.swift */; };
 		46BAF81220AB241C009CE59C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BAF81120AB241C009CE59C /* AppDelegate.swift */; };
 		46BAF81420AB241C009CE59C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46BAF81320AB241C009CE59C /* ViewController.swift */; };
 		46BAF81720AB241C009CE59C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46BAF81520AB241C009CE59C /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		463CBDC620BDAEDA000C315E /* RoundImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundImage.swift; sourceTree = "<group>"; };
+		463EE8A020BF18F700F3D827 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		46BAF80E20AB241C009CE59C /* dev-profile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dev-profile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		46BAF81120AB241C009CE59C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		46BAF81320AB241C009CE59C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				463CBDC620BDAEDA000C315E /* RoundImage.swift */,
+				463EE8A020BF18F700F3D827 /* RoundButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				463EE8A120BF18F700F3D827 /* RoundButton.swift in Sources */,
 				46BAF81420AB241C009CE59C /* ViewController.swift in Sources */,
 				463CBDC720BDAEDA000C315E /* RoundImage.swift in Sources */,
 				46BAF81220AB241C009CE59C /* AppDelegate.swift in Sources */,
